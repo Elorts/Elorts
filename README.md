@@ -1,5 +1,5 @@
 ## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Deividas
-I am full stack developer specialising in Java and JavaScript. 
+I am full stack developer specialising in Java and JavaScript technologies. 
 
 <!--
 **Elorts/Elorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
