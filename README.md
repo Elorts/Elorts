@@ -16,9 +16,7 @@ I thrive on building robust, scalable, and efficient solutions for diverse techn
 - **Cloud Platforms**: AWS ☁️
 
 ## 📫 Let's Connect
-- [GitHub Profile](#)
-- [LinkedIn](#)
-- [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/deividas-strole-94248866/)
 
 Thanks for stopping by! 😊
 
