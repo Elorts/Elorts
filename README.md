@@ -1,12 +1,9 @@
 ## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Deividas
-
-I'm a passionate **Full Stack Developer** with expertise in:
-## 🚀 Skills
+I'm a passionate **Full Stack Developer** 🚀 with expertise in:
 - **Frontend Development**: JavaScript 📜, React ⚛️
 - **Backend Development**: Java ☕, Spring Boot 🍃
 - **Database**: SQL 🗄️
 - **Cloud Platforms**: AWS ☁️
-
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/deividas-strole-94248866/)
 <!--
