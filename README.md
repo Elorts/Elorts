@@ -4,8 +4,6 @@ I'm a passionate **Full Stack Developer** 🚀 with expertise in:
 - **Backend Development**: Java ☕, Spring Boot 🍃
 - **Database**: SQL 🗄️
 - **Cloud Platforms**: AWS ☁️
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/deividas-strole-94248866/)
 <!--
 **Elorts/Elorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
