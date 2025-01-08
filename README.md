@@ -1,3 +1,7 @@
+![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
+
+
+<!--
 ## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Deividas
 I'm a passionate **Full Stack Developer** 🚀 with expertise in:
 - **Frontend Development**: JavaScript 📜, React ⚛️
