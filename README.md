@@ -1,4 +1,5 @@
-![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
+![languages](https://github.com/Elorts/Elorts/blob/main/invertedGitHub.png?raw=true)
+<!-- ![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
 
 
 <!--
