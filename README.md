@@ -1,4 +1,4 @@
-## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> , my name is Deividas and I'm fullstack developer
+## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic.
 - **Frontend Development**: JavaScript 📜, React ⚛️
 - **Backend Development**: Java ☕, Spring Boot 🍃, Python 🐍, C# 🔧
 - **Database**: SQL 🗄️
