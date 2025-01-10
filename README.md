@@ -1,14 +1,12 @@
-![languages](https://github.com/Elorts/Elorts/blob/main/invertedGitHub.png?raw=true)
-<!-- ![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
-
-
-<!--
 ## Hi there <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> My name is Deividas
 I'm a passionate **Full Stack Developer** 🚀 with expertise in:
 - **Frontend Development**: JavaScript 📜, React ⚛️
 - **Backend Development**: Java ☕, Spring Boot 🍃
 - **Database**: SQL 🗄️
 - **Cloud Platforms**: AWS ☁️
+
+<!-- ![languages](https://github.com/Elorts/Elorts/blob/main/invertedGitHub.png?raw=true)
+<!-- ![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
 <!--
 **Elorts/Elorts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
