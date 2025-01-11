@@ -1,4 +1,4 @@
-## Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/lottie.json" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic.
+## Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic.
 <!-- ## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic. -->
 - **Frontend Development**: JavaScript 📜, React ⚛️
 - **Backend Development**: Java ☕, Spring Boot 🍃, Python 🐍, C# 🔧
