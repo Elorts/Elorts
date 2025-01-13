@@ -1,6 +1,6 @@
 ## Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_fe0f/512.gif" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&background=000000&multiline=true&width=435&lines=Frontend+Development%3A+JavaScript+%F0%9F%93%9C%2C+React+%E2%9A%9B%EF%B8%8F;Backend+Development%3A+Java+%E2%98%95%2C+Spring+Boot+%F0%9F%8D%83%2C+Python+%F0%9F%90%8D%2C+C%23+%F0%9F%94%A7;Database%3A+SQL+%F0%9F%97%84%EF%B8%8F;Cloud+Platforms%3A+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Frontend+Development%3A+JavaScript+%F0%9F%93%9C%2C+React+%E2%9A%9B%EF%B8%8F;Backend+Development%3A+Java+%E2%98%95%2C+Spring+Boot+%F0%9F%8D%83%2C+Python+%F0%9F%90%8D%2C+C%23+%F0%9F%94%A7;Database%3A+SQL+%F0%9F%97%84%EF%B8%8F;Cloud+Platforms%3A+AWS+%E2%98%81%EF%B8%8F" alt="Typing SVG" /></a>
 
 
 <!-- ## Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Deividas. I turn ideas into full-stack magic. -->
