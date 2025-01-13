@@ -5,6 +5,8 @@
 - **Database**: SQL 🗄️
 - **Cloud Platforms**: AWS ☁️
 
+![snake gif](https://github.com/Elorts/Elorts/blob/output/github-snake-dark.svg)
+
 <!-- ![languages](https://github.com/Elorts/Elorts/blob/main/invertedGitHub.png?raw=true)
 <!-- ![languages](https://github.com/Elorts/Elorts/blob/main/GitHubProfile.png?raw=true)
 <!--
